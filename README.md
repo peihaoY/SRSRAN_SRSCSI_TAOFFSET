@@ -23,3 +23,7 @@ This repository contains a simple setup for transferring CSI (Channel State Info
 2. **Run the receiver**  
    ```bash
    python real_time_plot.py
+   
+## Example Output
+
+![Real-time CSI & TA plot](example.png)
